@@ -1,0 +1,33 @@
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.unittest.dll
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.unittest.pdb
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.exe
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.pdb
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.exe.config
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.csprojResolveAssemblyReference.cache
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.csproj.CoreCompileInputs.cache
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.dll
+D:\Gdrive\School\3e jaar\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.pdb
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.dll
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.pdb
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.unittest.dll
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.unittest.pdb
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.exe
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.pdb
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Restaurant.exe.config
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.csprojAssemblyReference.cache
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.csproj.CopyComplete
+C:\Users\LJ\Documents\Restaurant\Restaurant\Restaurant.unittest\obj\Debug\Restaurant.unittest.csproj.CoreCompileInputs.cache
